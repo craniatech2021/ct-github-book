@@ -1,5 +1,5 @@
 import React from 'react'
-import { Info, Repos, User, Search, Navbar } from '../components'
+import { Info, Repos, User, Search, Navbar } from '../components/Index'
 import loadingImage from '../images/6.svg'
 import { GithubContext } from '../context/context'
 
